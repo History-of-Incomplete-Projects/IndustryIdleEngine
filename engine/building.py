@@ -1,4 +1,4 @@
-from engine.dbmanager import *
+from dbmanager import *
 from engine.resource import Resource
 from engine.managers import db_manager, resource_manager
 

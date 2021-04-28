@@ -1,5 +1,6 @@
 {
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": false,
-    "python.pythonPath": "d:\\Users\\AlanJ\\Documents\\Visual Studio Code Projects\\Industry Idle\\venv\\Scripts\\python.exe"
+    "python.linting.enabled": true,
+    "python.pythonPath": "d:\\Users\\AlanJ\\Documents\\Visual Studio Code Projects\\IndustryIdleEngine\\venv\\Scripts\\python.exe",
+    "python.analysis.useImportHeuristic": true
 }

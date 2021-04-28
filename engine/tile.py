@@ -1,5 +1,6 @@
+from dbmanager import *
+
 from engine.parser import Parser
-from engine.dbmanager import *
 from engine.managers import db_manager, coordinate_manager
 from engine.managers import player_manager, building_manager
 from engine.building import Building
