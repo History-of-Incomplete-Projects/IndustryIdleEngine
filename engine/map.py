@@ -1,7 +1,6 @@
-from types import SimpleNamespace
+from dbmanager import *
 import json
 
-from engine.dbmanager import *
 from engine.managers import db_manager
 
 

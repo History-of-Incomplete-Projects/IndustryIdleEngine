@@ -1,4 +1,5 @@
-from engine.dbmanager import *
+from dbmanager import *
+
 from engine.managers import db_manager
 
 
