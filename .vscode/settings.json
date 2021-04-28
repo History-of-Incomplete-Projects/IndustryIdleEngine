@@ -1,0 +1,5 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": false,
+    "python.pythonPath": "d:\\Users\\AlanJ\\Documents\\Visual Studio Code Projects\\Industry Idle\\venv\\Scripts\\python.exe"
+}
