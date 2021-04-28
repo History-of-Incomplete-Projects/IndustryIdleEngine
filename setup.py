@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='dbmanager',
-    packages=find_packages(include=['dbmanager']),
+    name='IndustryIdleEngine',
+    packages=find_packages(include=['engine']),
     version='0.1.0',
-    description='A database manager that makes sqlalchemy easier',
+    description='mock backend of industry idle',
     author='jingming@ualberta.ca',
     license='Apache',
     install_requires=[
